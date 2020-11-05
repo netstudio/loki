@@ -33,7 +33,7 @@ Whatever `mcamara/laravel-localization` package can do, Loki can do too, but bet
 From the command line:
 
 ```
-composer require laravelista/loki
+composer require netstudio/loki
 ```
 
 Then, add the `Loki` trait to your `RouteServiceProvider` class:
